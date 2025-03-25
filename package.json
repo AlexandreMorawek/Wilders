@@ -1,0 +1,24 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "for degree",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlexandreMorawek/Wilders.git"
+  },
+  "author": "AlexM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreMorawek/Wilders/issues"
+  },
+  "homepage": "https://github.com/AlexandreMorawek/Wilders#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
