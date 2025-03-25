@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/AlexandreMorawek/Wilders.git"
+    "url": "https://github.com/AlexandreMorawek/Wilders.git"
   },
   "author": "AlexM",
   "license": "ISC",
